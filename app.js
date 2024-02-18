@@ -1,3 +1,6 @@
+// Montrell Campbell and Sabbir Ahmad
+
+
 const board = [
     [0,0,0,0]
     [0,0,0,0]
@@ -85,3 +88,5 @@ window.addEventListener('keyup', (e) => {
     assignRandom()
     assignRandom()
     display()
+
+    // Tested and found no errors - Sabbir Ahmad
